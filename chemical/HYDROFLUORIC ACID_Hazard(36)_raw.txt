@@ -1,0 +1,216 @@
+partialPressureInPascals=4.0000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	4.0000000000000000	double
+		partialPressureInPascals	4.0000000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	273.14999999999998	double
+-		[1]	{valueIsListedInFile=1 pressureValueAsListedInFile=18.000000000000000 partialPressureInPascals=18.000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	18.000000000000000	double
+		partialPressureInPascals	18.000000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	293.14999999999998	double
+-		[2]	{valueIsListedInFile=1 pressureValueAsListedInFile=68.000000000000000 partialPressureInPascals=68.000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	68.000000000000000	double
+		partialPressureInPascals	68.000000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	313.14999999999998	double
+-		[3]	{valueIsListedInFile=1 pressureValueAsListedInFile=216.00000000000000 partialPressureInPascals=216.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	216.00000000000000	double
+		partialPressureInPascals	216.00000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	333.14999999999998	double
+-		[4]	{valueIsListedInFile=1 pressureValueAsListedInFile=500.00000000000000 partialPressureInPascals=500.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	500.00000000000000	double
+		partialPressureInPascals	500.00000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	353.14999999999998	double
+-		[5]	{valueIsListedInFile=1 pressureValueAsListedInFile=1490.0000000000000 partialPressureInPascals=1490.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	1490.0000000000000	double
+		partialPressureInPascals	1490.0000000000000	double
+		hazardousComponentMassFraction	0.10000000000000001	double
+		temperatureKelvin	373.14999999999998	double
+-		[6]	{valueIsListedInFile=1 pressureValueAsListedInFile=12.000000000000000 partialPressureInPascals=12.000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	12.000000000000000	double
+		partialPressureInPascals	12.000000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	273.14999999999998	double
+-		[7]	{valueIsListedInFile=1 pressureValueAsListedInFile=55.000000000000000 partialPressureInPascals=55.000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	55.000000000000000	double
+		partialPressureInPascals	55.000000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	293.14999999999998	double
+-		[8]	{valueIsListedInFile=1 pressureValueAsListedInFile=201.00000000000000 partialPressureInPascals=201.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	201.00000000000000	double
+		partialPressureInPascals	201.00000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	313.14999999999998	double
+-		[9]	{valueIsListedInFile=1 pressureValueAsListedInFile=633.00000000000000 partialPressureInPascals=633.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	633.00000000000000	double
+		partialPressureInPascals	633.00000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	333.14999999999998	double
+-		[10]	{valueIsListedInFile=1 pressureValueAsListedInFile=1760.0000000000000 partialPressureInPascals=1760.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	1760.0000000000000	double
+		partialPressureInPascals	1760.0000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	353.14999999999998	double
+-		[11]	{valueIsListedInFile=1 pressureValueAsListedInFile=4360.0000000000000 partialPressureInPascals=4360.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	4360.0000000000000	double
+		partialPressureInPascals	4360.0000000000000	double
+		hazardousComponentMassFraction	0.20000000000000001	double
+		temperatureKelvin	373.14999999999998	double
+-		[12]	{valueIsListedInFile=1 pressureValueAsListedInFile=40.000000000000000 partialPressureInPascals=40.000000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	40.000000000000000	double
+		partialPressureInPascals	40.000000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	273.14999999999998	double
+-		[13]	{valueIsListedInFile=1 pressureValueAsListedInFile=169.00000000000000 partialPressureInPascals=169.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	169.00000000000000	double
+		partialPressureInPascals	169.00000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	293.14999999999998	double
+-		[14]	{valueIsListedInFile=1 pressureValueAsListedInFile=595.00000000000000 partialPressureInPascals=595.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	595.00000000000000	double
+		partialPressureInPascals	595.00000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	313.14999999999998	double
+-		[15]	{valueIsListedInFile=1 pressureValueAsListedInFile=1790.0000000000000 partialPressureInPascals=1790.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	1790.0000000000000	double
+		partialPressureInPascals	1790.0000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	333.14999999999998	double
+-		[16]	{valueIsListedInFile=1 pressureValueAsListedInFile=4760.0000000000000 partialPressureInPascals=4760.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	4760.0000000000000	double
+		partialPressureInPascals	4760.0000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	353.14999999999998	double
+-		[17]	{valueIsListedInFile=1 pressureValueAsListedInFile=11400.000000000000 partialPressureInPascals=11400.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	11400.000000000000	double
+		partialPressureInPascals	11400.000000000000	double
+		hazardousComponentMassFraction	0.29999999999999999	double
+		temperatureKelvin	373.14999999999998	double
+-		[18]	{valueIsListedInFile=1 pressureValueAsListedInFile=488.00000000000000 partialPressureInPascals=488.00000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	488.00000000000000	double
+		partialPressureInPascals	488.00000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	273.14999999999998	double
+-		[19]	{valueIsListedInFile=1 pressureValueAsListedInFile=1653.0000000000000 partialPressureInPascals=1653.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	1653.0000000000000	double
+		partialPressureInPascals	1653.0000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	293.14999999999998	double
+-		[20]	{valueIsListedInFile=1 pressureValueAsListedInFile=4770.0000000000000 partialPressureInPascals=4770.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	4770.0000000000000	double
+		partialPressureInPascals	4770.0000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	313.14999999999998	double
+-		[21]	{valueIsListedInFile=1 pressureValueAsListedInFile=12200.000000000000 partialPressureInPascals=12200.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	12200.000000000000	double
+		partialPressureInPascals	12200.000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	333.14999999999998	double
+-		[22]	{valueIsListedInFile=1 pressureValueAsListedInFile=27900.000000000000 partialPressureInPascals=27900.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	27900.000000000000	double
+		partialPressureInPascals	27900.000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	353.14999999999998	double
+-		[23]	{valueIsListedInFile=1 pressureValueAsListedInFile=58700.000000000000 partialPressureInPascals=58700.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	58700.000000000000	double
+		partialPressureInPascals	58700.000000000000	double
+		hazardousComponentMassFraction	0.50000000000000000	double
+		temperatureKelvin	373.14999999999998	double
+-		[24]	{valueIsListedInFile=1 pressureValueAsListedInFile=5490.0000000000000 partialPressureInPascals=5490.0000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	5490.0000000000000	double
+		partialPressureInPascals	5490.0000000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	273.14999999999998	double
+-		[25]	{valueIsListedInFile=1 pressureValueAsListedInFile=15370.000000000000 partialPressureInPascals=15370.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	15370.000000000000	double
+		partialPressureInPascals	15370.000000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	293.14999999999998	double
+-		[26]	{valueIsListedInFile=1 pressureValueAsListedInFile=39300.000000000000 partialPressureInPascals=39300.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	39300.000000000000	double
+		partialPressureInPascals	39300.000000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	313.14999999999998	double
+-		[27]	{valueIsListedInFile=1 pressureValueAsListedInFile=88200.000000000000 partialPressureInPascals=88200.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	88200.000000000000	double
+		partialPressureInPascals	88200.000000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	333.14999999999998	double
+-		[28]	{valueIsListedInFile=1 pressureValueAsListedInFile=108600.00000000000 partialPressureInPascals=108600.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	108600.00000000000	double
+		partialPressureInPascals	108600.00000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	353.14999999999998	double
+-		[29]	{valueIsListedInFile=1 pressureValueAsListedInFile=343000.00000000000 partialPressureInPascals=343000.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	343000.00000000000	double
+		partialPressureInPascals	343000.00000000000	double
+		hazardousComponentMassFraction	0.69999999999999996	double
+		temperatureKelvin	373.14999999999998	double
+-		[30]	{valueIsListedInFile=1 pressureValueAsListedInFile=48500.000000000000 partialPressureInPascals=48500.000000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	48500.000000000000	double
+		partialPressureInPascals	48500.000000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	273.14999999999998	double
+-		[31]	{valueIsListedInFile=1 pressureValueAsListedInFile=103041.00000000000 partialPressureInPascals=103041.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	103041.00000000000	double
+		partialPressureInPascals	103041.00000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	293.14999999999998	double
+-		[32]	{valueIsListedInFile=1 pressureValueAsListedInFile=202000.00000000000 partialPressureInPascals=202000.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	202000.00000000000	double
+		partialPressureInPascals	202000.00000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	313.14999999999998	double
+-		[33]	{valueIsListedInFile=1 pressureValueAsListedInFile=370300.00000000000 partialPressureInPascals=370300.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	370300.00000000000	double
+		partialPressureInPascals	370300.00000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	333.14999999999998	double
+-		[34]	{valueIsListedInFile=1 pressureValueAsListedInFile=640010.00000000000 partialPressureInPascals=640010.00000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	640010.00000000000	double
+		partialPressureInPascals	640010.00000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	353.14999999999998	double
+-		[35]	{valueIsListedInFile=1 pressureValueAsListedInFile=1050000.0000000000 partialPressureInPascals=1050000.0000000000 ...}	PartialPressureTableValue
+		valueIsListedInFile	1	int
+		pressureValueAsListedInFile	1050000.0000000000	double
+		partialPressureInPascals	1050000.0000000000	double
+		hazardousComponentMassFraction	1.0000000000000000	double
+		temperatureKelvin	373.14999999999998	double

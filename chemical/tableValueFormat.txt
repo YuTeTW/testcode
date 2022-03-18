@@ -1,0 +1,14 @@
+tableValues :[
+	{},{},{}.....
+]
+
+every
+
+
+{
+ valueIsListedInFile : 0,
+            pressureValueAsListedInFile : 0,
+            partialPressureInPascals : 0.0000000000000000,
+            hazardousComponentMassFraction : 0,
+            temperatureKelvin : 0.0000000000000000
+}
