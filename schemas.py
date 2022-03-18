@@ -17,7 +17,7 @@ class Item(ItemBase):
     owner_id: int
 
     class Config:
-        orm_mode = True
+        orm_mode = False
 
 
 class UserBase(BaseModel):
