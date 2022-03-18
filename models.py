@@ -9,6 +9,6 @@ class Hero(SQLModel, table=True):  #
     age: Optional[int] = None
 
 
-print("g1hjhghj")
+print("g1hjhgherqej")
 
 
